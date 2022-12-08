@@ -28,7 +28,6 @@ p {
 }
 
 .get-started-button {
-  justify-content: center !important;
   padding: 18px 30px !important;
   border-radius: 50px !important;
 }
