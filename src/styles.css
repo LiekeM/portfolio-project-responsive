@@ -5,19 +5,19 @@ body {
   background-size: 100% 100%;
 }
 
-h1 {
+.header {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
-  font-size: 72px;
+  font-size: 24px;
   font-weight: 700 !important;
   text-align: center;
   padding-top: 25px;
 }
 
-h2 {
+.header-second {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
-  font-size: 24px;
+  font-size: 72px;
   font-weight: 700 !important;
   text-align: center;
   padding-top: 276px;
