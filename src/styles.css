@@ -34,17 +34,17 @@ p {
 .get-started-button {
   padding: 18px 30px !important;
   border-radius: 50px !important;
-  padding-top: 50px;
+  padding-top: 50px !important;
 }
 
 .navbar {
   font-family: "Robobto", sans-serif;
-  font-size: 16px;
-  font-weight: 500;
+  font-size: 16px !important;
+  font-weight: 500 !important;
   text-align: right !important;
-  padding-top: 51px;
-  padding-bottom: 48px;
-  padding-right: 140px;
+  padding-top: 51px !important;
+  padding-bottom: 48px !important;
+  padding-right: 140px !important;
 }
 
 .photo-backround {
