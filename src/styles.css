@@ -34,7 +34,7 @@ p {
 .get-started-button {
   padding: 18px 30px !important;
   border-radius: 50px !important;
-  padding-top: 50px !important;
+  margin-top: 50px !important;
 }
 
 .navbar {
