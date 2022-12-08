@@ -9,6 +9,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-size: 72px;
+  text-align: center;
   padding-top: 20px;
 }
 
@@ -24,6 +25,12 @@ p {
   color: #ffffff;
   font-size: 18px;
   text-align: center;
+}
+
+button {
+  justify-content: center;
+  padding: 18px 30px;
+  border-radius: 50px;
 }
 
 .photo-backround {
