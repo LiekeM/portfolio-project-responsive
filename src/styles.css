@@ -9,7 +9,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-size: 72px;
-  font-weight: 700;
+  font-weight: 700 !important;
   text-align: center;
   padding-top: 25px;
 }
@@ -18,7 +18,7 @@ h2 {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: 700 !important;
   text-align: center;
   padding-top: 276px;
 }
