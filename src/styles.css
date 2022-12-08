@@ -5,6 +5,12 @@ body {
 h1 {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
+  position: absolute;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
 }
 
 .hippo-icon {
