@@ -1,11 +1,10 @@
 body {
-  background: #202020 !important;
+  background-image: url("images/frontpage_img.jpg");
 }
 
 h1 {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
-  position: absolute;
 }
 
 h2 {
