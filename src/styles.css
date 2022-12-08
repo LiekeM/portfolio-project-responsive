@@ -1,9 +1,8 @@
 body {
-  background-image: url("/images/frontpage_img.jpg") !important;
-  background-size: contain;
+  background-image: url("portfolio-project-responsive/images/frontpage1.jpg");
   background-repeat: no-repeat;
-  width: 200px;
-  height: 100vh;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 
 h1 {
@@ -18,4 +17,10 @@ h2 {
 
 p {
   color: #ffffff;
+}
+
+.photo-backround {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
