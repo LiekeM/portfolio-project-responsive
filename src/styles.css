@@ -10,6 +10,11 @@ p {
   padding-top: 25px;
 }
 
+#footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 .header {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
