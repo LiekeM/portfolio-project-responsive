@@ -10,7 +10,14 @@ p {
   padding-top: 25px;
 }
 
-#footer {
+button {
+  padding: 18px 30px !important;
+  border-radius: 50px !important;
+  margin-top: 50px !important;
+  margin-bottom: 100px !important;
+}
+
+.footer {
   display: flex;
   justify-content: space-between;
 }
