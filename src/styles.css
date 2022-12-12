@@ -8,6 +8,7 @@ p {
   font-weight: 400;
   text-align: center;
   padding-top: 25px;
+  padding-right: 50px;
 }
 
 button {
@@ -49,6 +50,7 @@ button {
 .header2-about {
   font-family: "Roboto", sans-serif;
   color: #f65282;
+  font-size: 21px;
 }
 
 .get-started-button {
