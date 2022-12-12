@@ -40,6 +40,17 @@ button {
   padding-top: 25px;
 }
 
+.header1-about {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  font-size: 64px !important;
+}
+
+.header2-about {
+  font-family: "Roboto", sans-serif;
+  color: #f65282;
+}
+
 .get-started-button {
   padding: 18px 30px !important;
   border-radius: 50px !important;
@@ -62,4 +73,8 @@ button {
 
 .row {
   margin: 144px;
+}
+
+.socials-container {
+  color: #ffffff;
 }
