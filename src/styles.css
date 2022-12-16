@@ -45,12 +45,14 @@ button {
   font-family: "Roboto", sans-serif;
   color: #ffffff;
   font-size: 64px !important;
+  font-weight: 700;
 }
 
 .header2-about {
   font-family: "Roboto", sans-serif;
   color: #f65282;
   font-size: 21px;
+  font-weight: 700;
 }
 
 .get-started-button {
